@@ -1,3 +1,4 @@
+<font size="1">
 # Bunking
 #Index.php is the main file where the user interface starts. 
 #here the user can know the bakery and also create an account for himself
@@ -10,3 +11,4 @@
 # Check the orders from all the customers and also view the future orders.
 # The admin credentials are username: admin and password: admin123
 # normal user credentials are username: normaluser and password: normaluser123
+</font>
